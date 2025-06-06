@@ -1,3 +1,7 @@
 # Main modules
-ollama #https://pypi.org/project/ollama/
-streamlit
+ollama>=0.1.0  # https://pypi.org/project/ollama/
+streamlit>=1.28.0
+torch>=2.0.0
+
+# Additional dependencies for enhanced features
+# Note: json, os, datetime, and typing are part of Python standard library
